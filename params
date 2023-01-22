@@ -1,0 +1,34 @@
+subdomain level
+num query components
+num numeric chars
+length of query
+sensitive words
+embedded brand name
+links html source code
+
+DONE
+
+ip
+num dots 
+num % 
+num ? 
+has @ - have done count
+has ~ - have done count
+num underscore
+num dash 
+num &
+num #
+has // - have done count
+num = 
+num $
+num +
+num !
+num *
+num ,
+path length
+url length
+embedded domain - need to check if reqd
+shortening service - need to check if reqd
+length of hostname
+https or not
+num dash in hostname
